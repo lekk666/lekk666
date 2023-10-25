@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lekk666
-- 👀 I’m interested in Html And Css
-- 🌱 I’m currently learning The WebSite
-- 📫 How to reach me Gmail : Lekk666owo2055@gmail.com
+- 👋 Hey, Moi c'est Lekkos
+- 👀 J'essaye d'apprendre le Python
+- 🌱 Je suis actuellement entrain de faire des scripts pour github!
+- 📫 Comment me contacter ? Par discord : Lekkos9
